@@ -1,2 +1,5 @@
 # hello-world
-learning
+
+i just started github program.
+
+i think this is a good begining
